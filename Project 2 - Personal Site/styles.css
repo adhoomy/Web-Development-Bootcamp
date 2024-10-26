@@ -1,0 +1,40 @@
+.hero-color {
+    background-color: #001F3F;
+}
+
+.my-pic {
+    border-radius: 50%;
+    border: 5px solid #EAD8B1;
+}
+
+h1 {
+    color: white;
+}
+
+.title {
+    color: #6A9AB0;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.welcome {
+    color: #6A9AB0;
+}
+
+.projects {
+    color: #3A6D8C;
+    display: flex;
+    justify-content: center;
+    padding: 25px;
+}
+
+.footer {
+    background-color: #001F3F;
+}
+
+.copyr {
+    color: white;
+}
